@@ -1,2 +1,2 @@
 # Inception-Scroll-drivenClaude
-versionOfCLAUDE-Eфект з багатошаровими зображеннями та анімацією прокручування 
+versionOfCLAUDE-Eфект з ВІДЕО і багатошаровими зображеннями та анімацією прокручування 
